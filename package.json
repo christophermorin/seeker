@@ -1,0 +1,12 @@
+{
+  "name": "rogue-todo",
+  "version": "1.0.0",
+  "description": "Leave no TODO behind",
+  "main": "rogue_todo.js",
+  "type": "module",
+  "scripts": {
+    "seek": "node rogue_todo.js"
+  },
+  "author": "Chris Morin",
+  "license": "ISC"
+}
